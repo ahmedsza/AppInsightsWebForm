@@ -1,6 +1,7 @@
 # Very simple AppInsights with Webform
 
-Create an Application Insights resource in Azure. See https://docs.microsoft.com/en-us/azure/azure-monitor/app/create-new-resource for more 
+Create an Application Insights resource in Azure. See https://docs.microsoft.com/en-us/azure/azure-monitor/app/create-new-resource for more.
+
 After creating it, get the instrumentation key
 
 After you clone the repo, open the solution in Visual Studio
